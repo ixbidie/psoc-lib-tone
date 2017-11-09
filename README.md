@@ -1,2 +1,3 @@
-# psoc-lib-tone
-Component for the PSoC family which controls piezo buzzers
+# PSoC Tone
+
+Component for the PSoC family which controls piezo buzzers.
